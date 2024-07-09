@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "id": "6e02",
+      "nombre": "Pantaloness",
+      "precio": "asda"
+    },
+    {
+      "id": "e085",
+      "nombre": "Cristian",
+      "precio": "13123"
+    },
+    {
+      "id": "98ce",
+      "nombre": "Cristian1212",
+      "precio": "13123"
+    }
+  ]
+}

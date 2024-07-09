@@ -1,5 +1,5 @@
 export const Acerca = () => {
     return (
-        <div>Acerca</div>
+        <h2>Acerca</h2>
     )
 }
